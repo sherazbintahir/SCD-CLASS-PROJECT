@@ -28,7 +28,7 @@ instructors.
 Purpose: Allows instructors to create quizzes for assessment purposes, and enables 
 students to attempt and complete quizzes.
 - AI Chatbot Interaction:
-Purpose: Provides personalized learning support and assistance to students through AIdriven interactions.
+Purpose: Provides personalized learning support and assistance to students through AI-driven interactions.
 - Interview:
 Purpose: Enables students to participate in interviews for internships and job opportunities 
 offered by collaborating companies.
@@ -75,5 +75,8 @@ user experience even under heavy load conditions
 
 
 # DELIVERABLE 2
+**Detailed Design Document**
+[Deliverable 2.pdf](https://github.com/sherazbintahir/SCD-CLASS-PROJECT/files/15366465/Deliverable.2.pdf)
+
 
 # DELIVERABLE 3
